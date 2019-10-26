@@ -1,0 +1,7 @@
+flask
+flask-restful
+redis
+mysql-python
+xhtml2pdf
+celery
+
